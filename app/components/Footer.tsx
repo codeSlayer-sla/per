@@ -13,7 +13,7 @@ export default function Footer() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://linkedin.com/in/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white mx-2"
