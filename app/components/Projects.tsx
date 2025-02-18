@@ -7,8 +7,8 @@ import Modal from "./Modal"
 const projects = [
   {
     title: "Portfolio",
-    description: "Made this web portfolio with react,node.js ,typescript,",
-    technologies: ["React", "Node.js"],
+    description: "Made this web portfolio with react,next.js ,typescript,",
+    technologies: ["React", "Next.js","Typescript"],
     longDescription:
       ".",
   },
